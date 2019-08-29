@@ -52,6 +52,7 @@
 #### Current Version
 - [x] Enter product name
 - [x] App determines whether product contains ingredient which negatively impacts the environment - palm oil
+  - Find list of currently recognised products [here](guilt-tripper/Products.swift)
 - [x] If product does not have a negative impact on the environment and is contained within our app, the user is congratulated
 - [x] If the product does have a negative impact on the environment and is contained within our app:
   - [x] User is made to feel guilty through the use of images of animals being affected by this ingredient - orangutans in a destroyed forest
